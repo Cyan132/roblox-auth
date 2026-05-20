@@ -1,6 +1,6 @@
 {
     "KEY-ABC123": {
         "PlaceID": [123456, 789101],
-        "status": "active"
+        "status": "inactive"
     }
 }
